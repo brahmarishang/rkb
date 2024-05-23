@@ -11,7 +11,7 @@
 
 ## Projects
 ### Gait Based Human identification
-
+Gait recognition is a biometric method used to identify individuals based on their walking patterns. Unlike other biometric techniques such as fingerprint or facial recognition, gait recognition can be performed from a distance and does not require the subject's cooperation or awareness, making it particularly useful for surveillance and security applications.
 
 
 
