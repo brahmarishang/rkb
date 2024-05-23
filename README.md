@@ -11,25 +11,11 @@
 
 ## Projects
 ### Gait Based Human identification
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/archive/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/archive/img/bike_study.jpeg)
-
-## Talks & Lectures
 
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+
 
 ## Publications
-l. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
+l. Effective method to reduce Covariate issues in gait-based human identification M Kathing, RK Brahma, S Saharia 2022 2nd International Conference on Intelligent Technologies (CONIT), 1-5	1	2022
+2. Features Fusion-Based Gait Recognition with Covariate Conditions M Kathing, RK Brahma, S Saharia International Conference on Advanced Computational and Communication …		2023
+3. Comparative Study on Different Classifiers for Gait-Based Human Identification M Kathing, RK Brahma, S Saharia Advanced Machine Intelligence and Signal Processing, 137-146		2022
