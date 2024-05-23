@@ -16,6 +16,6 @@
 
 
 ## Publications
-l. Effective method to reduce Covariate issues in gait-based human identification M Kathing, RK Brahma, S Saharia 2022 2nd International Conference on Intelligent Technologies (CONIT), 1-5	1	2022
+1. Effective method to reduce Covariate issues in gait-based human identification M Kathing, RK Brahma, S Saharia 2022 2nd International Conference on Intelligent Technologies (CONIT), 1-5	1	2022
 2. Features Fusion-Based Gait Recognition with Covariate Conditions M Kathing, RK Brahma, S Saharia International Conference on Advanced Computational and Communication …		2023
 3. Comparative Study on Different Classifiers for Gait-Based Human Identification M Kathing, RK Brahma, S Saharia Advanced Machine Intelligence and Signal Processing, 137-146		2022
