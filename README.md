@@ -1,9 +1,9 @@
 # Research Scholar
 
-#### Technical Skills: Python, SQL, AWS
+#### Technical Skills: Python, SQL, AWS,ML
 
 ## Education
-- Ph.D.,Computer Science Engineering | Tezpur University								       		
+- Ph.D.,Computer Science Engineering | Tezpur University(2021 to present)								       		
 - M.TECH., Computer Science Engineering | Tezpur University(_June 2021)		 			        		
 - B.TECH., Computer Science Engineering | ITM University	 (_May 2017_)
 
